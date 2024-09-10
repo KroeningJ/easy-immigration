@@ -2,8 +2,8 @@
 
 SoSe 2024
 
-Muriel Paul
-Jens Kröning
+Muriel Paul 543229
+Jens Kröning 570843
 
 CityLAB Summer School | 02. – 12. September 2024
 „Ankommen in Berlin“
