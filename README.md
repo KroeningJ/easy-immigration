@@ -10,6 +10,8 @@ CityLAB Summer School | 02. – 12. September 2024
 
 ## Projekt: [www.easy-immigration.de](https://jnskroening.wixsite.com/easy-immigration)
 
+Hinweis: Der Prototyp ist aufgrund der kostenlosen Version nur begrenzt nutzbar. Der Quick-Check ist implementiert, lässt sich jedoch nur mit kostenpflichtigen Abonnements ausführen.
+
 Dokumentation: CityLAB Summer School | 02. – 12. September 2024
 
 Thema: „Ankommen in Berlin“
