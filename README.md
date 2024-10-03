@@ -8,7 +8,7 @@ SoSe 2024
 CityLAB Summer School | 02. – 12. September 2024
 „Ankommen in Berlin“
 
-## Projekt: www.easy-immigration.de
+## Projekt: [www.easy-immigration.de](https://jnskroening.wixsite.com/easy-immigration)
 
 Dokumentation: CityLAB Summer School | 02. – 12. September 2024
 
